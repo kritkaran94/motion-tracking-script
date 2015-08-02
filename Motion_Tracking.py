@@ -1,6 +1,8 @@
 ''' 
 
  Motion tracking using SimpleCV
+ 
+ Krit Karan Singh
 
 '''
 
